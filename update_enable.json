@@ -2,6 +2,8 @@
     {
         "update_status": true,
         "app_name": "gc_app",
-        "massege": "Description 1"
+        "massege": "Description 1",
+        "img_url": "Description 1",
+        "update_links": "Description 1"
     }
 ]
